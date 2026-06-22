@@ -1,6 +1,6 @@
 {
   "name": "andrej-karpathy-skills",
-  "description": "Behavioral guidelines to reduce common LLM coding mistakes, derived from Andrej Karpathy's observations on LLM coding pitfalls",
+  "description": "减少常见 LLM 编码错误的行为指南，源自 Andrej Karpathy 对 LLM 编码陷阱的观察",
   "version": "1.0.0",
   "author": {
     "name": "forrestchang"

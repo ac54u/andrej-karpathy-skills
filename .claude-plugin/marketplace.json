@@ -5,14 +5,14 @@
     "name": "forrestchang"
   },
   "metadata": {
-    "description": "Behavioral guidelines to reduce common LLM coding mistakes, derived from Andrej Karpathy's observations",
+    "description": "减少常见 LLM 编码错误的行为指南，源自 Andrej Karpathy 的观察",
     "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "andrej-karpathy-skills",
       "source": "./",
-      "description": "Behavioral guidelines to reduce common LLM coding mistakes: Think Before Coding, Simplicity First, Surgical Changes, Goal-Driven Execution",
+      "description": "减少常见 LLM 编码错误的行为指南：编码前思考、简洁优先、精准修改、目标驱动执行",
       "version": "1.0.0",
       "author": {
         "name": "forrestchang"
